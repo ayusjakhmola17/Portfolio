@@ -1,5 +1,5 @@
 
-# Ayush Kumar Jakhmola Portfolio Website  
+# Portfolio Website  
 
 Welcome to my portfolio website! This site showcases my projects, skills, and achievements as I journey through my career in **BCA (Cyber Security)**.  
 
