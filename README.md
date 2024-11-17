@@ -6,7 +6,7 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ac
 ---
 
 ## 🚀 About Me  
-👩‍🎓 I am A, a passionate student currently pursuing a **Bachelor of Computer Applications (Cyber Security)** in Section B.  
+👩‍🎓 I am Ayush Kumar Jakhmola, a passionate student currently pursuing a **Bachelor of Computer Applications (Cyber Security)** in Section B.  
 🎯 My goal is to become a skilled cybersecurity professional, solving real-world problems while ensuring digital safety.  
 
 ---
@@ -56,7 +56,7 @@ You can visit my portfolio by navigating to this link:
 Feel free to reach out to me for collaborations, questions, or opportunities:  
 - **Email**: jakhmolaayush51@gmail.com  
 - **LinkedIn**: [Ayush Kumar Jakhmola](www.linkedin.com/in/ayush-jakhmola-)  
-- **GitHub**: [Your GitHub Profile](#)  
+- **GitHub**: [Ayush Kumar Jakhmola](https://github.com/ayusjakhmola17)  
 - **ContactUs**:+91-8869890343 
 ---
 
