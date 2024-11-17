@@ -57,7 +57,7 @@ Feel free to reach out to me for collaborations, questions, or opportunities:
 - **Email**: jakhmolaayush51@gmail.com  
 - **LinkedIn**: [Ayush Kumar Jakhmola](www.linkedin.com/in/ayush-jakhmola-)  
 - **GitHub**: [Your GitHub Profile](#)  
-- **Contact**:+91-8869890343 
+- **ContactUs**:+91-8869890343 
 ---
 
 ### Thank you for visiting my portfolio website! 🚀  
